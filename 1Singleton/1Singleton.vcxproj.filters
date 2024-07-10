@@ -23,5 +23,8 @@
     <Text Include="Essence.txt">
       <Filter>소스 파일</Filter>
     </Text>
+    <Text Include="Question.txt">
+      <Filter>소스 파일</Filter>
+    </Text>
   </ItemGroup>
 </Project>
